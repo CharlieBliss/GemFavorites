@@ -1,0 +1,21 @@
+.button {
+	background-color: #313131;
+	color: #D9D9D9;
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	cursor: pointer;
+}
+
+.searchButton {
+	background-color: #E4223C;
+	color: #FAFAFA;
+}
+
+.disabled {
+	background-color: #E5E5E5;
+	cursor: default;
+}
