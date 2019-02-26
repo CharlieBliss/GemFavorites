@@ -4,7 +4,7 @@ import classnames from 'classnames'
 import { isFavorite, toggleFavorite } from '../../logic/favorites'
 
 import { Paper, Button } from '..'
-import styles from './styles.css'
+import styles from './styles.scss'
 
 
 const Card = React.memo(({

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import classnames from 'classnames'
-import * as styles from './styles.css'
+import * as styles from './styles.scss'
 
 const Paper = ({
 	white,

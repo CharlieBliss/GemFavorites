@@ -1,5 +1,5 @@
 import React from 'react'
-import { render, fireEvent, cleanup } from 'react-testing-library'
+import { render, fireEvent } from 'react-testing-library'
 import { CONTAINS_TEST, NOT_CONTAINS_TEST } from '../../__mocks__/__mock__favorites'
 import Card from './Card'
 

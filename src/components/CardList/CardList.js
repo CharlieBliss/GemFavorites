@@ -4,7 +4,7 @@ import classnames from 'classnames'
 import { RingLoader } from 'react-spinners'
 
 import { Card } from '.'
-import styles from './styles.css'
+import styles from './styles.scss'
 
 const CardList = React.memo(({
 	cardList,

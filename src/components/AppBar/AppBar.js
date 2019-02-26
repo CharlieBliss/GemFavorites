@@ -5,7 +5,7 @@ import { onScroll, handleSearch } from '../../logic/api'
 
 
 import { Search, Button } from '..'
-import styles from './styles.css'
+import styles from './styles.scss'
 
 const AppBar = React.memo(({
 	gems,

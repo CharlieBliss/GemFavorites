@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import 'react-material-layout/dist/react-material-class-layout.min.css'
 import { getFavoritesList } from './logic/favorites'
 import { CardList, AppBar } from './components'
-import styles from './base.css'
+import styles from './base.scss'
 
 
 const App = React.memo(() => {
